@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+https://redux-practice-again.vercel.app/
+
+![image](https://github.com/user-attachments/assets/7779b2cb-8a2c-41f0-be2d-0a52966cbd35)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
